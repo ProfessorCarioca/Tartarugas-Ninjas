@@ -1,0 +1,19 @@
+body{
+    background: rgba(0, 255, 34, 0.836);
+    color:rgb(167, 5, 5);
+
+}
+
+button {
+    background-color: #d9f509;
+    color: rgb(241, 9, 40);
+    font-family: "Bai Jamjuree", sans-serif;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
